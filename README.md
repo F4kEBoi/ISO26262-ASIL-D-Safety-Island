@@ -50,7 +50,7 @@ flowchart TD
 ```
 ---
 
-## 📂 Project Manifest
+## 📂 System Blueprint
 
 Each file in this repository maps to a specific layer of the **ISO 26262** architecture:
 
@@ -61,7 +61,7 @@ Each file in this repository maps to a specific layer of the **ISO 26262** archi
 
 ---
 
-## 🚀 How to Run (Hardware-in-the-Loop Simulation)
+## 🚀 Proposed Validation Methodology
 
 ### 1. Hardware Prerequisites
 * **MCU:** STM32F4 Discovery (or any Cortex-M4F board).
